@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9751ae395da7eda40a47375c3c741004, type: 3}
+    - {fileID: 2800000, guid: 811bb100b53e05340ba56e4b74cb86cf, type: 3}
+    - {fileID: 2800000, guid: 506f559f3cdf0774aab2f547db7f75df, type: 3}
+    - {fileID: 2800000, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+    - {fileID: 2800000, guid: c303f99607ef15945b7cbb57eefde1ec, type: 3}
+    - {fileID: 2800000, guid: 27e2e46fda461c849b65dfd688016ec1, type: 3}
+    - {fileID: 2800000, guid: be81dc0e4aba1c046a0bb363e0b3462f, type: 3}
+    - {fileID: 2800000, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+    - {fileID: 2800000, guid: 735efb3bd4637df4ba0b0cdb3b0b51da, type: 3}
+    - {fileID: 2800000, guid: fcf3addb98dbdec4c9dceb9e7e1287d7, type: 3}
+    - {fileID: 2800000, guid: 625e219868a7e73488c95ad199e1f5e4, type: 3}
+    - {fileID: 2800000, guid: c60882e2370fb50478f70025e4d26c90, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 811bb100b53e05340ba56e4b74cb86cf, type: 3}
+  - {fileID: 21300000, guid: c60882e2370fb50478f70025e4d26c90, type: 3}
+  - {fileID: 21300000, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300004, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300002, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300008, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300010, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300006, guid: 9e21f334a1287874c8303faaa73cc37e, type: 3}
+  - {fileID: 21300000, guid: c303f99607ef15945b7cbb57eefde1ec, type: 3}
+  - {fileID: 21300000, guid: 625e219868a7e73488c95ad199e1f5e4, type: 3}
+  - {fileID: 21300002, guid: 9751ae395da7eda40a47375c3c741004, type: 3}
+  - {fileID: 21300000, guid: 9751ae395da7eda40a47375c3c741004, type: 3}
+  - {fileID: 21300062, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300008, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300040, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300042, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300036, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300038, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300044, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300046, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300060, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300000, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300048, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300050, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300052, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300054, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300056, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300058, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300010, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300020, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300022, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300012, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300014, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300016, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300018, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300032, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300034, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300024, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300026, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300028, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300030, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300006, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300004, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300002, guid: 01abe749a09b6bc4cac2b5bb867ee5e2, type: 3}
+  - {fileID: 21300000, guid: 735efb3bd4637df4ba0b0cdb3b0b51da, type: 3}
+  - {fileID: 21300000, guid: fcf3addb98dbdec4c9dceb9e7e1287d7, type: 3}
+  - {fileID: 21300000, guid: be81dc0e4aba1c046a0bb363e0b3462f, type: 3}
+  - {fileID: 21300000, guid: 27e2e46fda461c849b65dfd688016ec1, type: 3}
+  - {fileID: 21300000, guid: 506f559f3cdf0774aab2f547db7f75df, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - blood
+  - Square
+  - House 1
+  - House 2
+  - House 1 Fill
+  - Door Closed
+  - Door Open
+  - House 2 Fill
+  - Ground 1
+  - Mountains 3
+  - fill
+  - border
+  - Arm
+  - Gun
+  - Villager Walk Pants 02
+  - Villager Walk Pants 03
+  - Villager Walk Pants 00
+  - Villager Walk Pants 01
+  - Villager Walk Pants 04
+  - Villager Walk Pants 05
+  - Blood
+  - Player Idle
+  - Villager Walk Hair 00
+  - Villager Walk Hair 01
+  - Villager Walk Hair 02
+  - Villager Walk Hair 03
+  - Villager Walk Hair 04
+  - Villager Walk Hair 05
+  - Bullet
+  - Villager Walk 04
+  - Villager Walk 05
+  - Villager Walk 00
+  - Villager Walk 01
+  - Villager Walk 02
+  - Villager Walk 03
+  - Villager Walk Shirt 04
+  - Villager Walk Shirt 05
+  - Villager Walk Shirt 00
+  - Villager Walk Shirt 01
+  - Villager Walk Shirt 02
+  - Villager Walk Shirt 03
+  - Spirit
+  - Player Walk 01
+  - Player Walk 00
+  - Mountains 1
+  - Mountains 2
+  - Ground 3
+  - Ground 2
+  - circle
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
